@@ -7,7 +7,7 @@ Pair your port with you computer.
 
 Add SerialCOM and SerialCOM to a GameObjct. 
 
-Use SerialWrapper script to read or write data from an object.
+Use SerialWrapper script to read or write data.
 
 
 ## Installation
