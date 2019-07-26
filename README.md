@@ -1,5 +1,5 @@
 # UnityCOM
-Package for using serial communication in Unity3d
+Package for using serial communication in Unity3d in Windows
 
 ## How it Works
 
@@ -11,6 +11,8 @@ Use SerialWrapper script to read or write data.
 
 
 ## Installation
+
+In Player Settings -> other Settings use .NET 4.x
 
 Add unityPackage to Unity, in folder serial communication you will find a scene "New Scene" to test the COM port (teseted on Arduino uno, nano).
 
