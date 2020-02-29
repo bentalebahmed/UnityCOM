@@ -5,7 +5,7 @@ Package for using serial communication in Unity3d in Windows
 
 Pair your port with you computer.
 
-Add SerialCOM and SerialCOM to a GameObjct. 
+Add SerialCOM to a GameObjct. 
 
 Use SerialWrapper script to read or write data.
 
