@@ -18,10 +18,5 @@ Add unityPackage to Unity, in folder serial communication you will find a scene 
 
 For the incoming data, SerialCOM script reads till new line appears ('\n').
 
-
-## Contributing or Asking
-
-Contact : bentalebahmed98@gmail.com
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
